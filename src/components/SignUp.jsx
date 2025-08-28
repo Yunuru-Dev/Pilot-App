@@ -39,7 +39,7 @@ if(error)throw error;
  return (
   <div  className=' bg-gradient-to-r from-yellow-50 to-yellow-50 h-screen pt-24'>
    <div className='mx-auto block max-w-sm  bg-[#d2e603] rounded-lg p-4  '>
-   <img src="src/assets/Logo_Full Color.png" alt="logo" width="150" height="74"className="p-8 mx-auto " />
+   <img src="src/assets/Logo_Full_Color.png" alt="logo" width="150" height="74"className="p-8 mx-auto " />
 
       <form onSubmit={handleSubmit}>
          <h2 className="text-blue-950 font-bold  text-center text-lg my-4">Student Area</h2>
