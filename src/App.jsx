@@ -5,7 +5,7 @@ import { Dashboard } from "./components/Dashboard";
 import OnBoarding from "./components/OnBoarding";
 import ForgotPassword from "./components/ForgotPassword";
 import { SignIn } from "./components/SignIn";
-import { SignUp } from "./components/signUp";
+import { SignUp } from "./components/SignUp";
 import ResetPassword from "./components/ResetPassword";
 import DataFecch from "./components/DataFecch";
 
